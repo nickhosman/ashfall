@@ -115,7 +115,7 @@
                             header: "Martial Imprint:",
                             paragraphs: [
                                 "The Ironbound are particularly suited to combat protocols.",
-                                "You can use Shared Archive on attack or damage rolls. When used this way, the die becomes a d8 instead of a d6."
+                                "You can use Shared Archive on attack or damage rolls."
                             ]
                         }
                     ]
@@ -139,7 +139,7 @@
                             header: "Nimble Construction:",
                             paragraphs: [
                                 "The Rootkin are more flexible than other Soulwrought, allowing them to move more subtly.",
-                                "When you use shared Archive on a Stealth or Sleight of Hand check, creatures have disadvantage on Wisdom (Perception) checks made to detect you until the start of your next turn."
+                                "When you use Shared Archive on a Stealth or Sleight of Hand check, creatures have disadvantage on Wisdom (Perception) checks made to detect you until the start of your next turn."
                             ]
                         }
                     ]
