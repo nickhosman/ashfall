@@ -1,0 +1,446 @@
+[
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:00:29.279Z",
+    "description": "Masters of invention that use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.",
+    "expanded": "https://www.gmbinder.com/share/-M_Vp0-G2_ELZB3ruaoZ",
+    "id": "clvzz9x4o74fx9o",
+    "img": "https://www.dndbeyond.com/attachments/thumbnails/4/614/450/492/416.png",
+    "name": "Artificer",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:04:23.515Z",
+    "url": "https://www.gmbinder.com/share/-M8kCf8mUHGH4y2tx5i4",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-M8kCf8mUHGH4y2tx5i4"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-16 07:24:57.248Z",
+    "description": "The power to use one’s own body in a general sense has been around for eons. Atavism is tied and twisted around that idea. To those born with the talent, it’s no more difficult than training an instrument for others - the inclination was born into them.",
+    "expanded": "",
+    "id": "zskztfq09nh5qyi",
+    "img": "https://assets-ng.maxroll.gg/wordpress/Witch_Blood-Mage.webp",
+    "name": "Atavist",
+    "source": "SwordMeow",
+    "type": "class",
+    "updated": "2026-02-16 07:25:33.191Z",
+    "url": "https://drive.google.com/file/d/1NWkyKuXbOwlHFa07DqrXUE1xV2J5u_9-/view",
+    "sources": [
+      {
+        "source": "SwordMeow",
+        "url": "https://drive.google.com/file/d/1NWkyKuXbOwlHFa07DqrXUE1xV2J5u_9-/view"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 03:55:53.850Z",
+    "description": "A fierce warrior of primitive background who can enter a battle rage",
+    "expanded": "https://www.gmbinder.com/share/-N7MhiHnBhzmgxFtkzBO",
+    "id": "nud78nso5uc0d9r",
+    "img": "https://publicmedievalist.com/wp-content/uploads/2021/03/gruul-barbarian-dnd.jpg.webp",
+    "name": "Barbarian",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:46:18.805Z",
+    "url": "https://www.gmbinder.com/share/-N2gn3QXALCVqwAFJe5v",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-N2gn3QXALCVqwAFJe5v"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:03:59.822Z",
+    "description": "An inspiring magician whose power echoes the music of creation",
+    "expanded": "",
+    "id": "4i2k3a7muapmb6l",
+    "img": "https://www.dndbeyond.com/avatars/thumbnails/43940/759/420/618/638607457242601819.png",
+    "name": "Bard",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:04:27.713Z",
+    "url": "https://www.gmbinder.com/share/-NN-4ej_kwDJyO0_98BM",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-NN-4ej_kwDJyO0_98BM"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:34:33.730Z",
+    "description": "Clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows—even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt.",
+    "expanded": "",
+    "id": "z27rhrvmmcrjk6m",
+    "img": "https://cdna.artstation.com/p/assets/images/images/025/549/302/large/paul-canavan-414182-specialityhunter-update.jpg?1586160268",
+    "name": "Blood Hunter",
+    "source": "Matt Mercer, laserllama",
+    "type": "class",
+    "updated": "2026-02-16 07:15:52.287Z",
+    "url": "https://www.gmbinder.com/share/-NLlETPNSzqxgQ92pnd-",
+    "sources": [
+      {
+        "source": "Matt Mercer, laserllama",
+        "url": "https://www.gmbinder.com/share/-NLlETPNSzqxgQ92pnd-"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:11:04.161Z",
+    "description": "A master of martial combat, skilled with a variety of weapons and armor",
+    "expanded": "https://www.gmbinder.com/share/-MUkP55cdNMTFYMKlDUL",
+    "id": "kwaye2ixe01m5jh",
+    "img": "https://everhearthinn.com/wp-content/uploads/2022/08/Fighter-5E-Class-Guide-Featured-Image.webp",
+    "name": "Fighter",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:51:36.441Z",
+    "url": "https://www.gmbinder.com/share/-MSfA82gv8V69JAoqFVq",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-MSfA82gv8V69JAoqFVq"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 05:08:57.649Z",
+    "description": "Wield Thunder Cannons or wear Warplate! Adventure with your very own Golem or an endless supply of Gadgets. Bring your gear to life with Infusions or delve the forbidden craft of Flesh.",
+    "expanded": "",
+    "id": "c3q4872c5mchfnv",
+    "img": "https://www.gmbinder.com/images/3AwGuqW.jpg",
+    "name": "Inventor",
+    "source": "kibblestasty",
+    "type": "class",
+    "updated": "2026-02-14 05:08:57.649Z",
+    "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/62d708fb6a4bcc5aaf59af5d/1658259716353/Inventor2.2.3.pdf",
+    "sources": [
+      {
+        "source": "kibblestasty",
+        "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/62d708fb6a4bcc5aaf59af5d/1658259716353/Inventor2.2.3.pdf"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:46:41.058Z",
+    "description": "Their signature style of magic allows them to channel spells through their weapon strikes, sense the presence of arcane magic in the world around them, and even strike the weaves of spells from the air before they can take effect.",
+    "expanded": "https://www.gmbinder.com/share/-Nvnfwvps1zOqpIGK-5B",
+    "id": "4kgsfhtod1cidxt",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/020/414/433/large/lie-setiawan-syr-gwyn-liesetiawan.jpg?1567679302",
+    "name": "Magus",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:46:41.058Z",
+    "url": "https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:12:05.255Z",
+    "description": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection",
+    "expanded": "https://www.gmbinder.com/share/-MyVERQKKbawlJLVjpyo",
+    "id": "d7ohoi0cpyvs2m0",
+    "img": "https://www.dndbeyond.com/attachments/thumbnails/8/221/850/624/04-27.png",
+    "name": "Monk",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:12:05.255Z",
+    "url": "https://www.gmbinder.com/share/-MhGHvc1sNLoUrISINrV",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-MhGHvc1sNLoUrISINrV"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:13:15.314Z",
+    "description": "A holy warrior bound to a sacred oath",
+    "expanded": "",
+    "id": "0g3kbph7ztg3ac0",
+    "img": "https://www.dndbeyond.com/attachments/10/379/selesyna-knight.jpg",
+    "name": "Paladin",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:13:15.314Z",
+    "url": "https://www.gmbinder.com/share/-Nkliby-qWnFzQjiC4Pd",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-Nkliby-qWnFzQjiC4Pd"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:30:08.477Z",
+    "description": "A hard-hitting, unarmed bruiser with features built around grit, comebacks, and close-quarters control.",
+    "expanded": "",
+    "id": "ga1f4jo30zyatw0",
+    "img": "https://i0.wp.com/dungeonsanddragonsfan.com/wp-content/uploads/2026/02/pugilist-class-dnd-beyond-hero.png?fit=800%2C450&ssl=1",
+    "name": "Pugilist",
+    "source": "Benjamin Huffman",
+    "type": "class",
+    "updated": "2026-02-14 04:30:08.477Z",
+    "url": "https://drive.google.com/file/d/11TDViPgeei03btHLZVm7YtHyrFhHpfoE/view?usp=sharing",
+    "sources": [
+      {
+        "source": "Benjamin Huffman",
+        "url": "https://drive.google.com/file/d/11TDViPgeei03btHLZVm7YtHyrFhHpfoE/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:14:12.758Z",
+    "description": "A warrior who uses martial prowess and nature magic to combat threats on the edges of civilization",
+    "expanded": "https://www.gmbinder.com/share/-MW4c30CbGMWLRNgJxgb",
+    "id": "mf2dyer3g7jx8mt",
+    "img": "https://i.redd.it/vp4zkpzr0h571.png",
+    "name": "Ranger",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:52:48.034Z",
+    "url": "https://www.gmbinder.com/share/-M7iu19Af89SH2G_5RGa",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-M7iu19Af89SH2G_5RGa"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:15:31.015Z",
+    "description": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies",
+    "expanded": "https://www.gmbinder.com/share/-NJ8-9uVQcpeQLxLx5RS",
+    "id": "r0h0qatb0qtuif2",
+    "img": "https://mythcreants.com/wp-content/uploads/2021/09/Theif-655x475.jpg",
+    "name": "Rogue",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:15:31.015Z",
+    "url": "https://www.gmbinder.com/share/-N8o6KduyOA2qhUGBQqA",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-N8o6KduyOA2qhUGBQqA"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:41:37.699Z",
+    "description": "There are many wonderfully intelligent people in the world, but few are true Savants. Born with the innate desire to learn anything they can, and the potential for genius-level intellect, Savants spend their lives learning anything that those around them are willing to teach.",
+    "expanded": "https://www.gmbinder.com/share/-MzD8t8Wt2S232M_WBVC",
+    "id": "7fjd525dn3yy12k",
+    "img": "https://i.ibb.co/vx0nfHpp/Frantic-Search.png",
+    "name": "Savant",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:59:42.982Z",
+    "url": "https://www.gmbinder.com/share/-M0ZVK6ndhFyImQPF_aJ",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-M0ZVK6ndhFyImQPF_aJ"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:44:56.686Z",
+    "description": "Shamans bind Spirits to Totems, small objects of spiritual significance, and channel that power for good of their people.",
+    "expanded": "https://www.gmbinder.com/share/-N6Oo4k2AJmkFG06__DB",
+    "id": "rupljbvhuxh7vpu",
+    "img": "https://i.ibb.co/TxcfkSW5/Oath-of-the-Ancient-Wood-Mt-G-Art.jpg",
+    "name": "Shaman",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:24:02.766Z",
+    "url": "https://www.gmbinder.com/share/-M-6Rt87VW4p1cfPpPWO",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-M-6Rt87VW4p1cfPpPWO"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:51:26.959Z",
+    "description": "Warriors imbued with primal bestial powers that let them change their forms, taking on the shapes of wild Beasts.",
+    "expanded": "",
+    "id": "uv3e97cwx6cf5iv",
+    "img": "https://i.ibb.co/jP3jBsmr/Wolfkin-Outcast-Mt-G-Art.jpg",
+    "name": "Shifter",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 05:24:27.706Z",
+    "url": "https://www.gmbinder.com/share/-NGPF3Q0JXpV3aCTGJCN",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-NGPF3Q0JXpV3aCTGJCN"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-16 07:30:55.887Z",
+    "description": "The process of binding your soul with another creature can be quite taxing, especially if the creature isn't willing at first. Some people disappear into the wild to find a forest animal willing to bind, and return months later with a beast by their side willing to do anything for them, while others would rather summon a creature of untold horror, force it into submission, then bind the creature to follow their command.",
+    "expanded": "",
+    "id": "ta8rq3qz46thnp4",
+    "img": "https://i.pinimg.com/736x/80/52/d4/8052d44fd1c0de0ea533a28396fb1233.jpg",
+    "name": "Soul Binder",
+    "source": "FragSauce",
+    "type": "class",
+    "updated": "2026-02-16 07:32:31.762Z",
+    "url": "https://www.gmbinder.com/share/-M-sgaPGkhiONP9kk1Il",
+    "sources": [
+      {
+        "source": "FragSauce",
+        "url": "https://www.gmbinder.com/share/-M-sgaPGkhiONP9kk1Il"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 05:12:14.427Z",
+    "description": "Wield arcane powers to dazzle and destroy you foes, protect your allies, strike with lightning speed, or even unleash death from afar based on your chosen Tradition.",
+    "expanded": "",
+    "id": "arj1clrrd520bzc",
+    "img": "https://www.gmbinder.com/images/VKlrSeK.jpg",
+    "name": "Spellblade",
+    "source": "kibblestasty",
+    "type": "class",
+    "updated": "2026-02-14 05:12:14.427Z",
+    "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/67368270601f7e4ce687eefd/1731625591120/SpellbladeV1.3-compressed.pdf",
+    "sources": [
+      {
+        "source": "kibblestasty",
+        "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/67368270601f7e4ce687eefd/1731625591120/SpellbladeV1.3-compressed.pdf"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:58:35.542Z",
+    "description": "Within every Vessel is bound an extraplanar being of strange and wondrous power. No matter their origin, these immortal Spirits cannot be killed by conventional means. Instead, they are often bound to mortal flesh, forced to dwell within a body on the material plane.",
+    "expanded": "",
+    "id": "f734un4e3v53paz",
+    "img": "https://cdna.artstation.com/p/assets/images/images/027/907/572/large/livia-prima-img-20200623-185815-001.jpg?1592923099",
+    "name": "Vessel",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:58:35.542Z",
+    "url": "https://www.gmbinder.com/share/-N0CFGpDdib-M1mFNBLU",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-N0CFGpDdib-M1mFNBLU"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 05:10:55.225Z",
+    "description": "Primal warriors that can raise the earth and wield the elements, call the ancient powers of nature and assume bestial aspects.",
+    "expanded": "",
+    "id": "s0uflr3k6ofpqk2",
+    "img": "https://5e.tools/img/bestiary/HotB/Lizardfolk%20Warden.webp",
+    "name": "Warden",
+    "source": "kibblestasty",
+    "type": "class",
+    "updated": "2026-02-16 06:04:46.157Z",
+    "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/673684ce7a879d747759eda4/1731626197190/WardenV1.3-compressed.pdf",
+    "sources": [
+      {
+        "source": "kibblestasty",
+        "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/673684ce7a879d747759eda4/1731626197190/WardenV1.3-compressed.pdf"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:18:05.460Z",
+    "description": "A wielder of magic that is derived from a bargain with an extraplanar entity",
+    "expanded": "",
+    "id": "2jxsdu8pm0e3yjr",
+    "img": "https://i.ibb.co/4nykPNTp/warlock.png",
+    "name": "Warlock",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-16 06:07:38.930Z",
+    "url": "https://www.gmbinder.com/share/-NRARRHW6KjsBfrQIzTs",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-NRARRHW6KjsBfrQIzTs"
+      }
+    ]
+  },
+  {
+    "collectionId": "pbc_2478702895",
+    "collectionName": "items",
+    "created": "2026-02-14 04:49:16.142Z",
+    "description": "Martial leaders who use their knowledge of tactics and warfare to empower their allies and thwart the plans of their foes.",
+    "expanded": "https://www.gmbinder.com/share/-NlKD02rNjo7mjeK5pj0",
+    "id": "i007sqjmxci7v11",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/063/998/573/large/anna-podedworna-faramir.jpg?1686848843",
+    "name": "Warlord",
+    "source": "laserllama",
+    "type": "class",
+    "updated": "2026-02-14 04:49:16.142Z",
+    "url": "https://www.gmbinder.com/share/-MrUNf61qoDb0Csw8a9r",
+    "sources": [
+      {
+        "source": "laserllama",
+        "url": "https://www.gmbinder.com/share/-MrUNf61qoDb0Csw8a9r"
+      },
+      {
+        "source": "kibblestasty",
+        "url": "https://static1.squarespace.com/static/5e7eab9fcc76e2321541f8b3/t/67368605f7c163502c235b74/1731626506167/WarlordV1.6-compressed.pdf"
+      }
+    ]
+  }
+]

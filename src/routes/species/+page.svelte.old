@@ -1,0 +1,39 @@
+<script lang="ts">
+    import species from "$lib/data/species.json"
+    import Card from "$lib/components/Card.svelte";
+    import Description from "$lib/components/Description.svelte";
+
+    let rarities = Object.keys(species);
+
+    let openId = $state<number | null>(null);
+
+    function toggle(id: number) {
+        openId = openId === id ? null : id;
+    };
+</script>
+
+<div class="flex flex-col gap-4 p-12 w-full items-center">
+    <h1 class="font-bold text-4xl">Species</h1>
+    <div class="max-w-275">
+        <p>When the Cataclysm fractured the world, those most closely tied to magic found themselves changed in numerous ways. Most notably, the longer lived peoples now find their lifespans drastically reduced.
+        </p>
+        <p>
+            Below you will find a list of the allowed Species organized by rarity within the world along with descriptions of how they fit into the setting.
+        </p>
+    </div>
+    <div class="flex flex-col w-full max-w-275">
+        {#each rarities as rarity}
+            <div class="flex flex-col w-full max-w-275 p-4">
+                <h2 class="text-4xl text-stone-700 font-bold border border-b-0 border-stone-300 rounded-t-lg p-2">{rarity}</h2>
+                {#each species[rarity] as race}
+                    <Card title={race.name} image={race.img} id={race.id} on:click={() => toggle(race.id)}/>
+                    {#if openId === race.id}
+                        <Description
+                            job={race}
+                        />
+                    {/if}
+                {/each}
+            </div>
+        {/each}
+    </div>
+</div>

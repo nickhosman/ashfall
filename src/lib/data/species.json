@@ -1,0 +1,213 @@
+{
+    "Common": [
+        {
+            "name": "Dwarf",
+            "id": 0,
+            "description": "Dwarves adapted quickly after the Cataclysm, abandoning unstable depths and fortifying reliable ground. Their skill in stonework and engineering made them central to rail construction, fortified towns, and mining operations across the frontier.",
+            "source": "PHB'14",
+            "img": "https://live.staticflickr.com/5030/5617119276_4972c0bf75_b.jpg",
+            "rarity": "common"
+        },
+        {
+            "name": "Half-Elf",
+            "id": 1,
+            "description": "Half-elves live in the tension between what is fading and what is rising. Elven longevity has shortened, old traditions are disappearing, and entire cultural lineages are quietly dying out. Half-elves often feel that loss keenly. Many wrestle with questions of identity, inheritance, and belonging in a world that no longer resembles the one their elven ancestors knew. On the frontier, they are mediators, translators of old customs, and sometimes the last living link to histories that will not survive another generation.",
+            "source": "PHB'14",
+            "img": "https://cdn.cardsrealm.com/images/cartas/otj-outlaws-of-thunder-junction/EN/crop-med/sterling-keykeeper-32.jpeg?1945",
+            "rarity": "common"
+        },
+        {
+            "name": "Half-Orc",
+            "id": 2,
+            "description": "Half-orcs are a familiar presence in frontier towns. Strong, practical, and often community-minded, they thrive in places where grit matters more than lineage.",
+            "source": "PHB'14",
+            "img": "https://i.redd.it/half-orc-gunslingers-v0-zwdibyfmlood1.jpg?width=1024&format=pjpg&auto=webp&s=8fb703bc3e50255fcbb312ab85baa8de27243ae1",
+            "rarity": "common"
+        },
+        {
+            "name": "Halfling",
+            "id": 3,
+            "description": "Halflings are steady settlers and capable caravan hands. Their small farming communities cluster around stable land and rail access, producing reliable goods in a world where little else is certain.",
+            "source": "PHB'14",
+            "img": "https://i.pinimg.com/originals/49/bd/a8/49bda8e2f37421aaa72db0731609399a.jpg",
+            "rarity": "common"
+        },
+        {
+            "name": "Human",
+            "id": 4,
+            "description": "Humans are the most numerous people on the frontier. Their adaptability and ambition drive rail expansion, town founding, and political movements across the continent.",
+            "source": "PHB'14",
+            "img": "https://i.redd.it/y85bz3zm8mie1.jpeg",
+            "rarity": "common"
+        },
+        {
+            "name": "Goblin",
+            "id": 5,
+            "description": "Goblins adapted quickly to the new world. They are found in salvage crews, rail gangs, and trading posts, known for quick thinking and an eye for opportunity.",
+            "source": "MPMM",
+            "img": "https://64.media.tumblr.com/e384bd3a466cf0d9f6e4bc3b480da285/84ef44b10b2f1cc3-dd/s500x750/4f4f81ddc5daf8b8826e1061c7099283c0021166.jpg",
+            "rarity": "common"
+        },
+        {
+            "name": "Goliath",
+            "id": 6,
+            "description": "Goliaths come from highlands and harsh territories that weathered the Cataclysm better than crowded cities. Their endurance and self-reliance make them well suited to frontier life.",
+            "source": "MPMM",
+            "img": "https://i.pinimg.com/736x/ef/0e/06/ef0e06d0353548d7382760a71cdfd098.jpg",
+            "rarity": "common"
+        }
+    ],
+    "Uncommon": [
+        {
+            "name": "Dragonborn",
+            "id": 7,
+            "description": "Dragonborn have proven unusually resilient in the unstable territories beyond settled land. Where magic misfires or warps unpredictably, they endure. Whether by bloodline or biology, something in them resists the worst effects of the fractured world. As a result, dragonborn are often found on the edges of expansion. They often serve as caravan guards, crystal-field surveyors, and frontier wardens. In a land where magic cannot be trusted, their reliability carries weight.",
+            "source": "PHB'14",
+            "img": "https://i.ibb.co/HDpy575g/dragonborn.png",
+            "rarity": "uncommon"
+        },
+        {
+            "name": "Beastfolk",
+            "id": 8,
+            "description": "Beastfolk communities are scattered and diverse. Some trace their origins to ancient fey or primal forces, though those ties have grown faint. They are less numerous than humans or dwarves but not unheard of in frontier settlements.",
+            "source": "various",
+            "img": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/07/DD-Leonin.jpg",
+            "rarity": "uncommon",
+            "sub": [
+                {
+                    "name": "Harengon",
+                    "id": "beast1",
+                    "description": "Harengon are nimble travelers, often drawn to open plains and caravan routes.",
+                    "source": "MPMM",
+                    "img": ""
+                },
+                {
+                    "name": "Kenku",
+                    "id": "beast2",
+                    "description": "Kenku communities are small and tight-knit, known for mimicry, careful speech, and skilled trade work.",
+                    "source": "MPMM",
+                    "img": ""
+                },
+                {
+                    "name": "Shifter",
+                    "id": "beast3",
+                    "description": "Shifters carry heightened instincts that serve them well in dangerous territory. Many work as scouts, trackers, or guards.",
+                    "source": "MPMM",
+                    "img": ""
+                },
+                {
+                    "name": "Tabaxi",
+                    "id": "beast4",
+                    "description": "Tabaxi roam widely across the frontier, following trade routes and rumor alike.",
+                    "source": "MPMM",
+                    "img": ""
+                },
+                {
+                    "name": "Tortle",
+                    "id": "beast5",
+                    "description": "Tortles are rare in this dry age. Those who remain tend to settle near the few reliable water sources or travel slowly between established towns.",
+                    "source": "MPMM",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "name": "Kobold",
+            "id": 9,
+            "description": "Kobolds gather near mines, crystal seams, and old tunnels left behind by shifting earth. Small and clever, they often attach themselves to larger operations where their numbers are an asset.",
+            "source": "MPMM",
+            "img": "https://koboldpress.com/wp-content/uploads/2016/11/Kobold-Miner.jpg",
+            "rarity": "uncommon"
+        },
+        {
+            "name": "Orc",
+            "id": 10,
+            "description": "Orc communities vary widely. Some remain nomadic across open plains. Others have integrated into frontier settlements. They are less numerous than humans but far from isolated.",
+            "source": "MPMM",
+            "img": "https://i.pinimg.com/736x/09/0e/98/090e98b4371cb5a80be4179e0a9adb0e.jpg",
+            "rarity": "uncommon"
+        },
+        {
+            "name": "Soulwrought",
+            "id": 11,
+            "description": "The Soulwrought are constructs animated by bound soul cores and centered in the expanding city of the Exaedium. Each is restored or wrought with intent, not mass-produced. Outside their homeland they are uncommon, most often encountered as Seekers traveling the wastes.",
+            "source": "MPMM",
+            "img": "https://uploads.worldanvil.com/uploads/images/d335488e72c2cd3b99b730cd0604a1fe.jpg",
+            "rarity": "uncommon",
+            "sub": [
+                {
+                    "name": "Ironbound",
+                    "id": "const1",
+                    "description": "Built with reinforced metal frames, Ironbound are sturdy and often serve in defensive or industrial roles.",
+                    "source": "Ashfall",
+                    "img": ""
+                },
+                {
+                    "name": "Stonecast",
+                    "id": "const2",
+                    "description": "Formed of stone or clay over enduring cores, Stonecast are steady and deliberate, often tied to construction and long-term stewardship.",
+                    "source": "Ashfall",
+                    "img": ""
+                },
+                {
+                    "name": "Rootkin",
+                    "id": "const3",
+                    "description": "Crafted with treated wood and layered fibers, Rootkin move with quiet fluidity and are frequently chosen as explorers.",
+                    "source": "Ashfall",
+                    "img": ""
+                },
+                {
+                    "name": "Brightform",
+                    "id": "const4",
+                    "description": "Brightform bodies incorporate glass or crystal elements that catch and refract light. Many serve as archivists, artisans, or scholars within the Exaedium.",
+                    "source": "Ashfall",
+                    "img": ""
+                }
+            ]
+        }
+    ],
+    "Rare": [
+        {
+            "name": "Changeling",
+            "id": 12,
+            "description": "Changelings are exceedingly rare and usually discreet about their nature. In a world already defined by uncertainty, the ability to shift one’s face draws equal parts opportunity and suspicion.",
+            "source": "MPMM",
+            "img": "https://preview.redd.it/what-do-you-all-think-more-skins-like-this-than-the-ones-we-v0-c19c1f10tp5c1.jpg?width=736&format=pjpg&auto=webp&s=b9050aa1c495adc78e395392180b3720c2007231",
+            "rarity": "rare"
+        },
+        {
+            "name": "Genasi",
+            "id": 13,
+            "description": "Genasi births are rare and often tied to unstable crystal fields or scarred regions where elemental forces leak through. Their presence is a reminder that the world’s fractures have not fully healed.",
+            "source": "MPMM",
+            "img": "https://mimir.net/wp-content/uploads/dust_male.png",
+            "rarity": "rare"
+        }
+    ],
+    "Exotic": [
+        {
+            "name": "Elf",
+            "id": 14,
+            "description": "Elves are fewer than they once were, and they no longer live for centuries. The old longevity faded with the Cataclysm, leaving elven communities smaller and more insular. Many now live as wanderers, archivists, or specialists, carrying fragments of traditions that no longer fit the world as it is.",
+            "source": "PHB'14",
+            "img": "https://aldgaterpg.wordpress.com/wp-content/uploads/2024/02/old_elf_sorcerer_by_mizakilightsword_dgbi77n-pre-vert.jpg?w=366&h=460",
+            "rarity": "exotic"
+        },
+        {
+            "name": "Gnome",
+            "id": 15,
+            "description": "Gnomes have been deeply affected by the Cataclysm in ways not immediately visible. Since magic fractured, many have begun experiencing a condition known among their people as the Gloam, a gradual dimming of memory, focus, and continuity. Gnomes record obsessively, annotate everything, and build intricate mnemonic devices to compensate for lapses that grow more frequent with age. Though still brilliant and inventive, they live with the quiet knowledge that the magic which once sustained their clarity has been severed. Their enclaves are rarer now, and their work often carries an urgency born of slipping time.",
+            "source": "PHB'14",
+            "img": "https://cdna.artstation.com/p/assets/images/images/013/575/900/large/svetoslav-petrov-gnome-preview.jpg?1540541002",
+            "rarity": "exotic"
+        },
+        {
+            "name": "Tiefling",
+            "id": 16,
+            "description": "Tieflings are uncommon and often the subject of rumor. With planar forces unsettled after the Cataclysm, their origins are debated. Some claim ancient infernal bloodlines. Others believe they are shaped by lingering fractures in reality itself.",
+            "source": "PHB'14",
+            "img": "https://i.redd.it/hidj0ukpe0z41.jpg",
+            "rarity": "exotic"
+        }
+    ]
+}
