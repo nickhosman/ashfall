@@ -10,7 +10,8 @@
 		{ page: `${base}/`, text: "Setting" },
 		{ page: `${base}/factions`, text: "Factions" },
 		{ page: `${base}/classes`, text: "Classes" },
-		{ page: `${base}/species`, text: "Species" }
+		{ page: `${base}/species`, text: "Species" },
+		{ page: `${base}/mechanics`, text: "Mechanics" }
 	];
 
 	let visibleLinks = $derived(
