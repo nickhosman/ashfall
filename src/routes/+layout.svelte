@@ -1,17 +1,16 @@
 <script lang="ts">
-	export const prerender = true;
-
 	import '../app.css';
-	import topMask from "$lib/images/top_0002.png"
-	import { page } from '$app/state'
+	import topMask from "$lib/images/top_0002.png";
+	import { page } from '$app/state';
+	import { base } from '$app/paths';
 
 	let { children } = $props();
 
 	const links = [
-		{ page: "/", text: "Setting" },
-		{ page: "/factions", text: "Factions" },
-		{ page: "/classes", text: "Classes" },
-		{ page: "/species", text: "Species" }
+		{ page: `${base}/`, text: "Setting" },
+		{ page: `${base}/factions`, text: "Factions" },
+		{ page: `${base}/classes`, text: "Classes" },
+		{ page: `${base}/species`, text: "Species" }
 	];
 
 	let visibleLinks = $derived(
