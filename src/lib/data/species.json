@@ -176,8 +176,16 @@
             "rarity": "rare"
         },
         {
-            "name": "Genasi",
+            "name": "Dhampir",
             "id": 13,
+            "description": "Dhampirs are living people who possess vampiric prowess but are cursed with macabre hunger. Most dhampirs thirst for blood, but some gain sustenance from dreams, life energy, or other vital sources. Dhampirs must choose whether to fight to control their hunger or give in to predatory urges.",
+            "source": "MPMM",
+            "img": "https://cdna.artstation.com/p/assets/images/images/043/394/084/large/amber-goodhart-asset.jpg?1637145958",
+            "rarity": "rare"
+        },
+        {
+            "name": "Genasi",
+            "id": 14,
             "description": "Genasi births are rare and often tied to unstable crystal fields or scarred regions where elemental forces leak through. Their presence is a reminder that the world’s fractures have not fully healed.",
             "source": "MPMM",
             "img": "https://mimir.net/wp-content/uploads/dust_male.png",
@@ -187,7 +195,7 @@
     "Exotic": [
         {
             "name": "Elf",
-            "id": 14,
+            "id": 15,
             "description": "Elves are fewer than they once were, and they no longer live for centuries. The old longevity faded with the Cataclysm, leaving elven communities smaller and more insular. Many now live as wanderers, archivists, or specialists, carrying fragments of traditions that no longer fit the world as it is.",
             "source": "PHB'14",
             "img": "https://aldgaterpg.wordpress.com/wp-content/uploads/2024/02/old_elf_sorcerer_by_mizakilightsword_dgbi77n-pre-vert.jpg?w=366&h=460",
@@ -195,7 +203,7 @@
         },
         {
             "name": "Gnome",
-            "id": 15,
+            "id": 16,
             "description": "Gnomes have been deeply affected by the Cataclysm in ways not immediately visible. Since magic fractured, many have begun experiencing a condition known among their people as the Gloam, a gradual dimming of memory, focus, and continuity. Gnomes record obsessively, annotate everything, and build intricate mnemonic devices to compensate for lapses that grow more frequent with age. Though still brilliant and inventive, they live with the quiet knowledge that the magic which once sustained their clarity has been severed. Their enclaves are rarer now, and their work often carries an urgency born of slipping time.",
             "source": "PHB'14",
             "img": "https://cdna.artstation.com/p/assets/images/images/013/575/900/large/svetoslav-petrov-gnome-preview.jpg?1540541002",
@@ -203,7 +211,7 @@
         },
         {
             "name": "Tiefling",
-            "id": 16,
+            "id": 17,
             "description": "Tieflings are uncommon and often the subject of rumor. With planar forces unsettled after the Cataclysm, their origins are debated. Some claim ancient infernal bloodlines. Others believe they are shaped by lingering fractures in reality itself.",
             "source": "PHB'14",
             "img": "https://i.redd.it/hidj0ukpe0z41.jpg",
